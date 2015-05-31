@@ -15,9 +15,9 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+title:       "Bassist and Author Daniel Stotz"
+keywords:    "prunner, double bass method book, scales, arpeggios, fixed-position, thesis, dissertation, bow rehair, phoenix, arizona"
+description: "Joseph Prunner’s bass method books for scales and arpeggios; how to plan, complete and monetize your dissertation"
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
