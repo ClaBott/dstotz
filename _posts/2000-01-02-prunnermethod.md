@@ -12,10 +12,10 @@ Progressive Studies for the Double Bass by Joseph Prunner
 revised and edited by Dr. Daniel Stotz
 
 ![prunner1](../img/joseph-prunner-progressive-studies-for-double-bass-stotz-1.jpg)
-[Volume I]( http://www.amazon.com/dp/ B00L3YLKCO/?tag=becbot-20)
+[Volume I]( http://www.amazon.com/dp/B00L3YLKCO/?tag=becbot-20)
 
 ![prunner2](../img/joseph-prunner-progressive-studies-for-double-bass-stotz-2.jpg)
-[Volume II]( http://www.amazon.com/dp/ B00L4O8U12/?tag=becbot-20)
+[Volume II]( http://www.amazon.com/dp/B00L4O8U12/?tag=becbot-20)
 
 [Volumes I & II together](http://www.amazon.com/dp/B00L4ONTCC/?tag=becbot-20)
 
