@@ -15,13 +15,10 @@ _**Progressive Studies for the Double Bass by Joseph Prunner**_
 revised and edited by Dr. Daniel Stotz
 
 ![prunner1](../img/joseph-prunner-progressive-studies-for-double-bass-stotz-1.jpg)
-Volume I -- Major/Minor Scales and Arpeggios (327 pp.)
 **Click here to order:**
 [Volume I]( http://www.amazon.com/dp/B00L3YLKCO/?tag=becbot-20)
 
 ![prunner2](../img/joseph-prunner-progressive-studies-for-double-bass-stotz-2.jpg)
-Volume II -- Chromatic Scales
-and Fixed-Position Major and Minor Scales and Arpeggios
 **Click here to order:**
 [Volume II]( http://www.amazon.com/dp/B00L4O8U12/?tag=becbot-20)
 
