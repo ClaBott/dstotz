@@ -20,7 +20,8 @@ Major/Minor Scales and Arpeggios (327 pp.)
 
 ![prunner2](../img/joseph-prunner-progressive-studies-for-double-bass-stotz-2.jpg)
 Volume II
-Chromatic Scales and Fixed-Position Major and Minor Scales and Arpeggios
+Chromatic Scales
+and Fixed-Position Major and Minor Scales and Arpeggios
 **Click here to order:**
 [Volume II]( http://www.amazon.com/dp/B00L4O8U12/?tag=becbot-20)
 
