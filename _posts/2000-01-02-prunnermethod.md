@@ -8,7 +8,7 @@ fa-icon: music
 
 ##NOW AVAILABLE
 
-**_Progressive Studies for the Double Bass by Joseph Prunner**_
+_**Progressive Studies for the Double Bass by Joseph Prunner**_
 
 revised and edited by Dr. Daniel Stotz
 
