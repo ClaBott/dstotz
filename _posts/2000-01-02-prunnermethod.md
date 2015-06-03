@@ -1,9 +1,11 @@
 ---
-title: "Prunner"
+title: Prunner
 bg: duckgreen
 color: white
-fa-icon: music
+"fa-icon": music
+published: true
 ---
+
 
 
 ##NOW AVAILABLE
