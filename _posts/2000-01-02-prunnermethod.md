@@ -8,7 +8,7 @@ fa-icon: music
 
 ##NOW AVAILABLE
 
-Progressive Studies for the Double Bass by Joseph Prunner
+**Progressive Studies for the Double Bass by Joseph Prunner**
 revised and edited by Dr. Daniel Stotz
 
 ![prunner1](../img/joseph-prunner-progressive-studies-for-double-bass-stotz-1.jpg)
@@ -19,6 +19,6 @@ revised and edited by Dr. Daniel Stotz
 
 [Volumes I & II together](http://www.amazon.com/dp/B00L4ONTCC/?tag=becbot-20)
 
-“A newly revised and complete edition of this incredible scale and arpeggio system…the Prunner that I know, but new and on steroids!” – Catalin Rotaru, Associate Professor of Double Bass, Arizona State University in Bass World
+“A newly revised and complete edition of this incredible scale and arpeggio system…the Prunner that I know, but new and on steroids!” – Catalin Rotaru, Associate Professor of Double Bass, Arizona State University in _Bass World_
 
-“Bassists, if you buy nothing else this year, buy these…two magnificent volumes of scales and arpeggios for the 21st century…a must for anyone who is serious about developing a strong technique throughout the entire range of the double bass.” – David Heyes in Stringendo for the Australian Strings Association (AUSTA)
+“Bassists, if you buy nothing else this year, buy these…two magnificent volumes of scales and arpeggios for the 21st century…a must for anyone who is serious about developing a strong technique throughout the entire range of the double bass.” – David Heyes in _Stringendo_ for the Australian Strings Association (AUSTA)
