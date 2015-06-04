@@ -25,6 +25,7 @@ Volume I: Major/Minor Scales and Arpeggios (327 pp.)
 
 
 Volume II -- Chromatic Scales and Fixed-Position Major and Minor Scales and Arpeggios (138 pp.)
+
 **Click here to order:**
 [Volume II]( http://www.amazon.com/dp/B00L4O8U12/?tag=becbot-20)
 
