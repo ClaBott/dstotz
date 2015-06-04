@@ -21,4 +21,4 @@ Three invaluable books:
 
 Join Dr. Stotz's mailing list -- you'll be the first to hear about release dates, free previews, samples, new books and products, and special offers.
 
-Click here
+[Click here to join list](http://eepurl.com/bponpf)
