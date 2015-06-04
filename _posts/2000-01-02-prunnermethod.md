@@ -38,6 +38,7 @@ The _Studies_ present major and minor scales (harmonic and melodic) performed fi
 Daniel Stotz’s new edition is a comprehensive revision and expansion of Prunner’s _Studies_ preserving the original information, correcting errors made in editing, and greatly expanding the study by increasing the range of the exercises. More arpeggio exercises are provided -- creating melodic and harmonic minor “Fixed-Position” scales and arpeggios --  as well as the study of double-stops.
 
 
+
 “A newly revised and complete edition of this incredible scale and arpeggio system…the Prunner that I know, but new and on steroids!” – Catalin Rotaru, Associate Professor of Double Bass, Arizona State University in _Bass World_
 
 “Bassists, if you buy nothing else this year, buy these…two magnificent volumes of scales and arpeggios for the 21st century…a must for anyone who is serious about developing a strong technique throughout the entire range of the double bass.” – David Heyes in _Stringendo_ for the Australian Strings Association (AUSTA)
