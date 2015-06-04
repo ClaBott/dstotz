@@ -23,7 +23,6 @@ Volume I: Major/Minor Scales and Arpeggios (327 pp.)
 
 ![prunner2](../img/joseph-prunner-progressive-studies-for-double-bass-stotz-2.jpg)
 
-
 Volume II -- Chromatic Scales and Fixed-Position Major and Minor Scales and Arpeggios (138 pp.)
 
 **Click here to order:**
